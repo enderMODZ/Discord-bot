@@ -146,4 +146,4 @@ async def presence(ctx,text:str,type:int):
 
  
 
-bot.run('NTQ4NTE2ODM0MTYxMTk3MDU4.XKJU-A.eMTK0LVz_mSEMx2-6-Pz0A11IBQ')
+bot.run('NTQ4NTE2ODM0MTYxMTk3MDU4.XPKOKg.joByXwrPgOmUfLFX8Y0-CPAWh9c')
