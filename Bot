@@ -31,11 +31,11 @@ async def on_ready():
 
 @bot.command(pass_context=True)
 
-async def ping():
+async def gay():
 
-    await bot.say(':ping_pong:')
+    await bot.say('NO')
 
-    await bot.say('You pinged me haha')
+    await bot.say('U')
 
    
 
